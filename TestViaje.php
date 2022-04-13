@@ -1,6 +1,10 @@
 <?php
 include "Viaje.php";
 
+/** Miembros
+* Martina Coassin Fernandez, FAI-2542
+* Tomas Apablaza, FAI-2640
+*/
 
 /**
  * Muestra por pantalla las opciones del menu principal
